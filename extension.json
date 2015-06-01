@@ -1,0 +1,17 @@
+# NLS_MESSAGEFORMAT_NONE
+# NLS_ENCODING=UTF-8
+
+EXTENSION_NAME = Test Extension
+EXTENSION_DESCRIPTION = A test extension used to test the UI support for extensions.
+
+TEXT_PARAM_NAME = Text Param
+TEXT_PARAM_DESC = A required text param.
+
+OPT_TEXT_PARAM_NAME = Optional Text Param
+OPT_TEXT_PARAM_DESC = An optional text param with no default value.
+
+TEXT_AREA_PARAM_NAME = Text Area Param
+TEXT_AREA_PARAM_DESC = A required text area param.
+
+OPT_TEXT_AREA_PARAM_NAME = Optional Text Area Param
+OPT_TEXT_AREA_PARAM_DESC = An optional text area param with no default value.
